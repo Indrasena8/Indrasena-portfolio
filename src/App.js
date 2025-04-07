@@ -17,7 +17,7 @@ export default function App() {
       <Navbar />
       <div className="p-6 bg-gray-50 min-h-screen">
         <Routes>
-          <Route path="/indrasena-portfolio" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/education" element={<Education />} />
           <Route path="/skills" element={<Skills />} />
