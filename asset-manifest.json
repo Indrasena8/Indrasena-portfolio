@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/indrasena-portfolio/static/css/main.928072fe.chunk.css",
+    "main.js": "/indrasena-portfolio/static/js/main.60ed3842.chunk.js",
+    "main.js.map": "/indrasena-portfolio/static/js/main.60ed3842.chunk.js.map",
+    "runtime-main.js": "/indrasena-portfolio/static/js/runtime-main.d97d5d21.js",
+    "runtime-main.js.map": "/indrasena-portfolio/static/js/runtime-main.d97d5d21.js.map",
+    "static/js/2.065b72e2.chunk.js": "/indrasena-portfolio/static/js/2.065b72e2.chunk.js",
+    "static/js/2.065b72e2.chunk.js.map": "/indrasena-portfolio/static/js/2.065b72e2.chunk.js.map",
+    "static/js/3.d20e3203.chunk.js": "/indrasena-portfolio/static/js/3.d20e3203.chunk.js",
+    "static/js/3.d20e3203.chunk.js.map": "/indrasena-portfolio/static/js/3.d20e3203.chunk.js.map",
+    "index.html": "/indrasena-portfolio/index.html",
+    "precache-manifest.0667ba7ed43e1eb2001e3328084f27c2.js": "/indrasena-portfolio/precache-manifest.0667ba7ed43e1eb2001e3328084f27c2.js",
+    "service-worker.js": "/indrasena-portfolio/service-worker.js",
+    "static/css/main.928072fe.chunk.css.map": "/indrasena-portfolio/static/css/main.928072fe.chunk.css.map",
+    "static/js/2.065b72e2.chunk.js.LICENSE.txt": "/indrasena-portfolio/static/js/2.065b72e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d97d5d21.js",
+    "static/js/2.065b72e2.chunk.js",
+    "static/css/main.928072fe.chunk.css",
+    "static/js/main.60ed3842.chunk.js"
+  ]
+}
