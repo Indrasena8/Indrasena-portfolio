@@ -1,7 +1,7 @@
 {
   "name": "indrasena-portfolio",
   "version": "0.1.0",
-  "homepage": "https://indrasena8.github.io/Indrasena-portfolio/",
+  "homepage": "https://indrasena8.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
