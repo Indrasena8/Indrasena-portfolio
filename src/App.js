@@ -13,7 +13,7 @@ import './App.css';
 
 export default function App() {
   return (
-    <Router basename="/indrasena-portfolio">
+    <Router>
       <Navbar />
       <div className="p-6 bg-gray-50 min-h-screen">
         <Routes>
