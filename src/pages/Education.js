@@ -7,14 +7,14 @@ export default function Education() {
       institution: 'University of Wisconsin-Milwaukee',
       gpa: 'GPA: 3.85/4',
       duration: '2023-Present',
-      logo: '/assets/images/uwm.png',
+      logo: `${process.env.PUBLIC_URL}/assets/images/uwm.png`,
     },
     {
       degree: 'Bachelor of Engineering in Computer Science',
       institution: 'Visvesvaraiah Technological University',
       gpa: 'GPA: 8.72/10',
       duration: '2017-2021',
-      logo: '/assets/images/vtu.png',
+      logo: `${process.env.PUBLIC_URL}/assets/images/vtu.png`,
     },
   ];
 

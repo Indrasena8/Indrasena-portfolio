@@ -12,7 +12,7 @@ export default function Experience() {
         'COMPSCI 657/790 - Advanced Topics in Computer Science: Introduction to Cybersecurity: Graded assignments and exams for a class of 50+ students, focusing on threat modeling, vulnerability analysis, and cybersecurity principles.',
       ],
       skills: 'Java, Object-Oriented Programming (OOP), Eclipse, VSCode, Cyber Security - Network Security, Software Security, Web Security',
-      logo: '/assets/images/uwm.png',
+      logo: `${process.env.PUBLIC_URL}/assets/images/uwm.png`,
     },
     {
       company: 'University of Wisconsin-Milwaukee',
@@ -26,7 +26,7 @@ export default function Experience() {
         'Compared Kubernetes and Azure Functions for ML app deployment, focusing on DevOps workflows and scalability.',
       ],
       skills: 'Kubernetes, Azure Kubernetes Service (AKS), Docker, Python, Machine Learning, React.js, Linux, Microsoft Azure',
-      logo: '/assets/images/uwm.png',
+      logo: `${process.env.PUBLIC_URL}/assets/images/uwm.png`,
     },
     {
       company: 'Integra Connect',
@@ -41,7 +41,7 @@ export default function Experience() {
         'Contributed to monolith-to-microservices migration for better scalability and efficiency.',
       ],
       skills: 'C#, .NET Core, Azure, Redis, SQL Server, JavaScript, Agile Methodologies',
-      logo: '/assets/images/integra.jpg',
+      logo: `${process.env.PUBLIC_URL}/assets/images/integra.jpg`,
     },
     {
       company: 'Prinston Smart Engineers',
@@ -51,7 +51,7 @@ export default function Experience() {
         'Developed an E-commerce Website called Home Service which provides all the essential home care services such as pest control, yoga, haircut, etc.',
       ],
       skills: 'Java, MySQL, Bootstrap, HTML, CSS, JSP, JavaScript',
-      logo: '/assets/images/prinston.jpg',
+      logo: `${process.env.PUBLIC_URL}/assets/images/prinston.jpg`,
     },
     {
       company: 'XON Labs',
@@ -62,7 +62,7 @@ export default function Experience() {
         'Integrated functionality to provide sentiment-based movie reviews by analyzing user feedback.',
       ],
       skills: 'Python, SQLite, MySQL, Java, HTML, CSS, JavaScript',
-      logo: '/assets/images/xonlabs.png',
+      logo: `${process.env.PUBLIC_URL}/assets/images/xonlabs.png`,
     },
     {
       company: 'The Sparks Foundation',
@@ -72,7 +72,7 @@ export default function Experience() {
         'Completed tasks using Machine Learning and Data Analysis Technologies by building Regression models, Clustering models, and Decision Tree Classifier models to analyze COVID-19 data and make Stock Market Predictions.',
       ],
       skills: 'Pandas, NumPy, Python, Linear Regression, OpenCV',
-      logo: '/assets/images/sparks.ico',
+      logo: `${process.env.PUBLIC_URL}/assets/images/sparks.ico`,
     },
     {
       company: 'MyCaptain',
